@@ -9,20 +9,18 @@ export default createGlobalStyle`
   }
 
   body{
-    background:${({ theme }) => theme.colors.black};
+    background:${({ theme }) => theme.colors.white};
+    color: ${({ theme }) => theme.colors.secondary};
   }
 
   body, input, button{
     font: ${({ theme }) => theme.fonts['sans-serif']}
   }
-  #root{
-    max-width:960px;
-    margin: 0 auto;
-    padding: 40px 20px;
-  }
+
 
   button{
     cursor: pointer;
+
   }
 
 `;
