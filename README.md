@@ -1,3 +1,21 @@
+# HACKATHON CCR
+
+Bem-Vindo (a) ao Tamo Junto, uma plataforma que conecta jovens em cumprimento de pena ou em medidas socioeducativas com empresas e instituições de ensino.
+
+### Objetivo do Tamo Junto:
+
+Nosso principal objetivo é impactar na inclusão de jovens que por algum motivo acabaram conflitando com a lei e trazer uma nova pespectiva de vida, através do mercado de trabalho. Gerando renda e oportunidades!
+
+### Requisitos para o Funcionamento:
+
+• Acesso à Internet
+
+• Navegador web
+
+### 🛠 Tecnologias:
+
+• React Native
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
